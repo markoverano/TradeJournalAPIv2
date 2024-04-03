@@ -1,0 +1,15 @@
+*.bin
+.vs/
+*.dll
+*.exe
+*.pdb
+*.cache
+API/bin/
+API/obj/
+Application/obj/
+Core/obj/
+Domain/bin/
+Domain/obj/
+Infrastructure/bin/
+Infrastructure/obj/
+Application/bin/
