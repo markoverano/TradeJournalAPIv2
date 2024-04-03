@@ -13,3 +13,5 @@ Domain/obj/
 Infrastructure/bin/
 Infrastructure/obj/
 Application/bin/
+Core/bin/
+.sln
